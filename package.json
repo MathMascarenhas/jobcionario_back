@@ -1,0 +1,23 @@
+{
+  "name": "jobcionario_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathMascarenhas/jobcionario_back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathMascarenhas/jobcionario_back/issues"
+  },
+  "homepage": "https://github.com/MathMascarenhas/jobcionario_back#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
