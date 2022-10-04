@@ -6,19 +6,39 @@
             "definition": "A palavra deadline é um anglicismo usado frequentemente em todos os setores empresariais. Em português, o termo pode ser traduzido como prazo final, prazo de entrega ou então fim da linha."
         },
         {
-            "word": "deadline",
-            "translation": "prazo",
-            "definition": "A palavra deadline é um anglicismo usado frequentemente em todos os setores empresariais. Em português, o termo pode ser traduzido como prazo final, prazo de entrega ou então fim da linha."
+            "word": "budget",
+            "translation": "orçamento",
+            "definition": "Budget é um termo da língua inglesa que significa orçamento. É frequentemente utilizado no meio empresarial para designar o orçamento periódico (normalmente anual) feito por uma empresa, onde são inseridas variáveis de custos, receitas e despesas, definindo um plano de contas"
         },
         {
-            "word": "deadline",
-            "translation": "prazo",
-            "definition": "A palavra deadline é um anglicismo usado frequentemente em todos os setores empresariais. Em português, o termo pode ser traduzido como prazo final, prazo de entrega ou então fim da linha."
+            "word": "brainstorm",
+            "translation": "'tempestade de ideias'",
+            "definition": "Brainstorming é uma técnica utilizada para propor soluções a um problema específico. Consiste em uma reunião também chamada de tempestade de ideias, na qual os participantes devem ter liberdade de expor suas sugestões e debater sobre as contribuições dos colegas"
         },
         {
-            "word": "deadline",
-            "translation": "prazo",
-            "definition": "A palavra deadline é um anglicismo usado frequentemente em todos os setores empresariais. Em português, o termo pode ser traduzido como prazo final, prazo de entrega ou então fim da linha."
+            "word": "approach",
+            "translation": "abordagem",
+            "definition": "Approach significa abordagem e no mundo da comunicação e do marketing é o termo que os profissionais utilizam para se referenciar a técnica de abordagem que usam em um anúncio ou campanha, ou seja, a estratégia ou gancho que adotaram para alcançar o objetivo. Quando o conteúdo é mais técnico, o approach é tendencioso para o lado racional, já em um conteúdo que tem como foco a persuasão, utiliza-se o lado emocional ou humorístico"
+        },
+        {
+            "word": "B2B",
+            "translation": "Business to Business",
+            "definition": "Ou seja, negócios entre duas empresas/organizações"
+        },
+        {
+            "word": "B2C",
+            "translation": "Business to Customer",
+            "definition": "Negócios entre uma empresa que produz ou entre um produto a um consumidor final / pessoa física"
+        },
+        {
+            "word": "case",
+            "translation": "caso",
+            "definition": "Estudo de caso"
+        },
+        {
+            "word": "CTA",
+            "translation": "Call To Action",
+            "definition": "“Call to action”, ou seja, “Chamar para a ação” um consumidor para realizar uma ação em uma página de site, seja para clicar e comprar algo, realizar uma inscrição ou qualquer caminho que o site deseje. Um exemplo é “Saiba Mais” ou “Compre agora” em botões de site"
         }
     ]
 }
