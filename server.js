@@ -8,7 +8,9 @@ const port = process.env.PORT || 3000;
 
 server.use(middlewares);
 server.use(router);
-server.use(jsonServer.bodyParse);
+server.get('/words', (req, res) => {
+ return data.words
+});
 server.post('/words', (req, res) => {
     if (req.method === 'POST') {
       let newWord = req.body;
