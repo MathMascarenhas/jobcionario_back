@@ -1,69 +1,85 @@
 {
     "words": [
         {
+            "id": 1,
             "word": "deadline",
             "translation": "prazo",
             "definition": "A palavra deadline é um anglicismo usado frequentemente em todos os setores empresariais. Em português, o termo pode ser traduzido como prazo final, prazo de entrega ou então fim da linha."
         },
         {
+            "id": 2,
             "word": "budget",
             "translation": "orçamento",
             "definition": "Budget é um termo da língua inglesa que significa orçamento. É frequentemente utilizado no meio empresarial para designar o orçamento periódico (normalmente anual) feito por uma empresa, onde são inseridas variáveis de custos, receitas e despesas, definindo um plano de contas"
         },
         {
+            "id": 3,
             "word": "brainstorm",
             "translation": "'tempestade de ideias'",
             "definition": "Brainstorming é uma técnica utilizada para propor soluções a um problema específico. Consiste em uma reunião também chamada de tempestade de ideias, na qual os participantes devem ter liberdade de expor suas sugestões e debater sobre as contribuições dos colegas"
         },
         {
+            "id": 4,
             "word": "approach",
             "translation": "abordagem",
             "definition": "Approach significa abordagem e no mundo da comunicação e do marketing é o termo que os profissionais utilizam para se referenciar a técnica de abordagem que usam em um anúncio ou campanha, ou seja, a estratégia ou gancho que adotaram para alcançar o objetivo. Quando o conteúdo é mais técnico, o approach é tendencioso para o lado racional, já em um conteúdo que tem como foco a persuasão, utiliza-se o lado emocional ou humorístico"
         },
         {
+            "id": 5,
             "word": "B2B",
             "translation": "Business to Business",
             "definition": "Ou seja, negócios entre duas empresas/organizações"
         },
         {
+            "id": 6,
             "word": "B2C",
             "translation": "Business to Customer",
             "definition": "Negócios entre uma empresa que produz ou entre um produto a um consumidor final / pessoa física"
         },
         {
+            "id": 7,
             "word": "case",
             "translation": "caso",
             "definition": "Estudo de caso"
         },
         {
+            "id": 8,
             "word": "CTA",
             "translation": "Call To Action",
             "definition": "“Call to action”, ou seja, “Chamar para a ação” um consumidor para realizar uma ação em uma página de site, seja para clicar e comprar algo, realizar uma inscrição ou qualquer caminho que o site deseje. Um exemplo é “Saiba Mais” ou “Compre agora” em botões de site"
         },
         {
+            "id": 9,
             "word": "JIT",
             "translation": "Just In Time",
             "definition": "É uma técnica de gestão de estoque"
         },
         {
+            "id": 10,
             "word": "quarter",
             "translation": "quarto",
             "definition": "Mesmo parecendo “Quatro”, significa Trimestre. É utilizado para definir tarefas que serão feitas durante cada trimestre do ano"
         },
         {
+            "id": 11,
             "word": "OOO",
             "translation": "Out of Office",
             "definition": "Ou seja, a pessoa não está no escritório naquele dia"
         },
         {
+            "id": 12,
             "word": "Ombudsman",
             "translation": "'A pessoa que representa os interesses'",
             "definition": "É um profissional da empresa que faz a comunicação entre o público e a empresa"
         },
         {
+            "id": 13,
             "word": "MVP",
             "translation": "Minimum Viable Product",
             "definition": "Minimum Viable Product, ou produto viável mínimo. É uma versão simples ou resumida de um produto que será lançado com menor esforço"
+        },
+        {
+            "id": 14
         }
     ]
 }
