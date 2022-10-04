@@ -11,7 +11,7 @@ server.use(router);
 server.get('/words', (req, res) => {
  return data.words
 });
-server.post('/words', (req, res) => {
+server.post('/words/', (req, res) => {
     if (req.method === "POST") {
       let newWord = req.body;
       data.push({
