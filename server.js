@@ -19,7 +19,7 @@ server.post('/words/', (req, res) => {
         "translation": newWord.translation,
         "definition": newWord.definition});
       word = data.find(data => {return data.word == newWord.word});
-      return word;
+      return res.send(word);
     }
 });
 
