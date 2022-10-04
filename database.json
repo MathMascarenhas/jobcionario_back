@@ -39,6 +39,31 @@
             "word": "CTA",
             "translation": "Call To Action",
             "definition": "“Call to action”, ou seja, “Chamar para a ação” um consumidor para realizar uma ação em uma página de site, seja para clicar e comprar algo, realizar uma inscrição ou qualquer caminho que o site deseje. Um exemplo é “Saiba Mais” ou “Compre agora” em botões de site"
+        },
+        {
+            "word": "JIT",
+            "translation": "Just In Time",
+            "definition": "É uma técnica de gestão de estoque"
+        },
+        {
+            "word": "quarter",
+            "translation": "quarto",
+            "definition": "Mesmo parecendo “Quatro”, significa Trimestre. É utilizado para definir tarefas que serão feitas durante cada trimestre do ano"
+        },
+        {
+            "word": "OOO",
+            "translation": "Out of Office",
+            "definition": "Ou seja, a pessoa não está no escritório naquele dia"
+        },
+        {
+            "word": "Ombudsman",
+            "translation": "'A pessoa que representa os interesses'",
+            "definition": "É um profissional da empresa que faz a comunicação entre o público e a empresa"
+        },
+        {
+            "word": "MVP",
+            "translation": "Minimum Viable Product",
+            "definition": "Minimum Viable Product, ou produto viável mínimo. É uma versão simples ou resumida de um produto que será lançado com menor esforço"
         }
     ]
 }
