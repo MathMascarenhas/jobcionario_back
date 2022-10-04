@@ -11,8 +11,7 @@ server.use(router);
 server.get('/words', (req, res) => {
  return data.words
 });
-server.post('/words/', (req, res) => {
-    if (req.method === "POST") {
+server.post('/words', (req, res) => {
       let newWord = req.body;
       data.push({
         "word": newWord.word,
@@ -20,7 +19,7 @@ server.post('/words/', (req, res) => {
         "definition": newWord.definition});
       word = data.find(data => {return data.word == newWord.word});
       return res.send(word);
-    }
+
 });
 
 server.listen(port);
